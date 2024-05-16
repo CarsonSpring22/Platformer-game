@@ -4,7 +4,9 @@
   "name": "GML Platformer",
   "resources": [
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},"order":0,},
-    {"id":{"name":"sPlayer","path":"sprites/sPlayer/sPlayer.yy",},"order":0,},
+    {"id":{"name":"sPlayerA","path":"sprites/sPlayerA/sPlayerA.yy",},"order":4,},
+    {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},"order":2,},
+    {"id":{"name":"sPlayer","path":"sprites/sPlayer/sPlayer.yy",},"order":3,},
     {"id":{"name":"Owall","path":"objects/Owall/Owall.yy",},"order":1,},
     {"id":{"name":"sinvisiblewall","path":"sprites/sinvisiblewall/sinvisiblewall.yy",},"order":1,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},

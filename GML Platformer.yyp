@@ -3,6 +3,7 @@
   "resourceVersion": "1.6",
   "name": "GML Platformer",
   "resources": [
+    {"id":{"name":"twalls","path":"tilesets/twalls/twalls.yy",},"order":0,},
     {"id":{"name":"sGraain","path":"sprites/sGraain/sGraain.yy",},"order":9,},
     {"id":{"name":"sPlayerR","path":"sprites/sPlayerR/sPlayerR.yy",},"order":5,},
     {"id":{"name":"sWalls","path":"sprites/sWalls/sWalls.yy",},"order":6,},
